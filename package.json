@@ -1,0 +1,16 @@
+{
+  "name": "netrunner",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://NERDATRON5000.github.io/NETRUNNER",
+  "dependencies": {
+    "gh-pages": "^3.2.1"
+  }
+}
